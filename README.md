@@ -1,0 +1,1 @@
+# PicoCTF_2020_Mini-Competition
