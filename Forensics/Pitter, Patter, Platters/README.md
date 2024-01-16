@@ -21,7 +21,7 @@ icat suspicious.dd.sda1 12
 
 Parece que no podremos acceder a la información por icat, pero está cerca del archivo, usaremos autopsy entonces.
 
-Tendremos que anotar el sistema de archivos de la imagen (en este caso ext3):
+1. Tendremos que anotar el sistema de archivos de la imagen (en este caso ext3):
 
 ![Consola](img/console3.png)
 
@@ -39,7 +39,7 @@ sudo autopsy
 5. Añadimos el host con las opciones que nos da el programa por defecto.
 6. Ponemos la ruta de la imágen y seleciconamos 'Partition':
 
-![Autopsy](img/autopsy.png)
+![Autopsy](img/autopsy1.png)
 
 7. Nos aseguramos de el hash se calcule y de que el sistema de archivos sea 'ext':
 
